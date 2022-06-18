@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Charles Ancheta Blog</title>
+        <link>https://charlesancheta.com/blog</link>
+        <description>Charles Ancheta Blog</description>
+        <lastBuildDate>Tue, 07 Jun 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Friendship Ended with TypeScript, now Go is My Best Friend]]></title>
+            <link>https://charlesancheta.com/blog/2022/06/07/friendship-ended</link>
+            <guid>/2022/06/07/friendship-ended</guid>
+            <pubDate>Tue, 07 Jun 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Friendship ended]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="Friendship ended" src="/assets/images/friendship-ended-81753b98ed56ffb6ff2b0c00e7f78cf0.webp" width="680" height="510" class="img_DCeH"></p><p>No blog post here, just a quick edit I made in GIMP.</p>]]></content:encoded>
+            <category>dev</category>
+            <category>go</category>
+            <category>typescript</category>
+            <category>backend</category>
+            <category>meme</category>
+        </item>
+        <item>
+            <title><![CDATA[TIL: My actual height]]></title>
+            <link>https://charlesancheta.com/blog/til/my-actual-height</link>
+            <guid>til/my-actual-height</guid>
+            <pubDate>Sun, 29 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Today I learned what my actual height was (at least at the time of writing). For a few years now I've always kind of just stuck with 170 cm because that's what was in my driver's license when I got it 5 years ago (I really need to pass the road test this year). I'm not even sure if that was right at the time.]]></description>
+            <content:encoded><![CDATA[<p>Today I learned what my actual height was (at least at the time of writing). For a few years now I've always kind of just stuck with 170 cm because that's what was in my driver's license when I got it 5 years ago (I really need to pass the road test this year). I'm not even sure if that was right at the time.</p><p>So, I took a couple of IKEA measuring tapes (courtesy of Jherzey), put them together on a post in our basement, got a square ruler (triangular? (<!-- -->*<!-- -->sigh<!-- -->*<!-- -->... <a href="https://philnews.ph/2021/06/10/eskwala-in-english-translate-eskwala-in-english/" target="_blank" rel="noopener noreferrer"><em>eskwala</em></a>)) and measured my height.</p><p><img loading="lazy" alt="A square measuring my height at 173 cm" src="/assets/images/173cm-878f5d7a25cfd68eb8a8389497e78c23.webp" width="1536" height="2048" class="img_DCeH"></p><p>So I guess I grew 3 cm in those 5 years? I still haven't caught up to my dad's peak height (176 cm), but he's a bit shorter now that he's older, so it's okay. My hair can add at least 2 inches 😂.</p>]]></content:encoded>
+            <category>til</category>
+        </item>
+        <item>
+            <title><![CDATA[Welcome!]]></title>
+            <link>https://charlesancheta.com/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Sat, 28 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to my website! I am Charles, a Computer Engineering Student working as a Full Stack Web Developer.]]></description>
+            <content:encoded><![CDATA[<p>Welcome to my website! I am Charles, a Computer Engineering Student working as a Full Stack Web Developer.</p><p>For someone who spends a lot of time typing in front of a computer, I write down very little of my thoughts. Most stuff that I come back to for memories are just old code and old pictures, and this should hopefully change that.</p>]]></content:encoded>
+            <category>welcome</category>
+            <category>first</category>
+        </item>
+    </channel>
+</rss>

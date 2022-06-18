@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://charlesancheta.com/blog</id>
+    <title>Charles Ancheta Blog</title>
+    <updated>2022-06-07T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://charlesancheta.com/blog"/>
+    <subtitle>Charles Ancheta Blog</subtitle>
+    <icon>https://charlesancheta.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Friendship Ended with TypeScript, now Go is My Best Friend]]></title>
+        <id>/2022/06/07/friendship-ended</id>
+        <link href="https://charlesancheta.com/blog/2022/06/07/friendship-ended"/>
+        <updated>2022-06-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Friendship ended]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="Friendship ended" src="/assets/images/friendship-ended-81753b98ed56ffb6ff2b0c00e7f78cf0.webp" width="680" height="510" class="img_DCeH"></p><p>No blog post here, just a quick edit I made in GIMP.</p>]]></content>
+        <author>
+            <name>Charles Ancheta</name>
+            <uri>https://github.com/cbebe</uri>
+        </author>
+        <category label="dev" term="dev"/>
+        <category label="go" term="go"/>
+        <category label="typescript" term="typescript"/>
+        <category label="backend" term="backend"/>
+        <category label="meme" term="meme"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TIL: My actual height]]></title>
+        <id>til/my-actual-height</id>
+        <link href="https://charlesancheta.com/blog/til/my-actual-height"/>
+        <updated>2022-05-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today I learned what my actual height was (at least at the time of writing). For a few years now I've always kind of just stuck with 170 cm because that's what was in my driver's license when I got it 5 years ago (I really need to pass the road test this year). I'm not even sure if that was right at the time.]]></summary>
+        <content type="html"><![CDATA[<p>Today I learned what my actual height was (at least at the time of writing). For a few years now I've always kind of just stuck with 170 cm because that's what was in my driver's license when I got it 5 years ago (I really need to pass the road test this year). I'm not even sure if that was right at the time.</p><p>So, I took a couple of IKEA measuring tapes (courtesy of Jherzey), put them together on a post in our basement, got a square ruler (triangular? (<!-- -->*<!-- -->sigh<!-- -->*<!-- -->... <a href="https://philnews.ph/2021/06/10/eskwala-in-english-translate-eskwala-in-english/" target="_blank" rel="noopener noreferrer"><em>eskwala</em></a>)) and measured my height.</p><p><img loading="lazy" alt="A square measuring my height at 173 cm" src="/assets/images/173cm-878f5d7a25cfd68eb8a8389497e78c23.webp" width="1536" height="2048" class="img_DCeH"></p><p>So I guess I grew 3 cm in those 5 years? I still haven't caught up to my dad's peak height (176 cm), but he's a bit shorter now that he's older, so it's okay. My hair can add at least 2 inches 😂.</p>]]></content>
+        <author>
+            <name>Charles Ancheta</name>
+            <uri>https://github.com/cbebe</uri>
+        </author>
+        <category label="til" term="til"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome!]]></title>
+        <id>welcome</id>
+        <link href="https://charlesancheta.com/blog/welcome"/>
+        <updated>2022-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to my website! I am Charles, a Computer Engineering Student working as a Full Stack Web Developer.]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to my website! I am Charles, a Computer Engineering Student working as a Full Stack Web Developer.</p><p>For someone who spends a lot of time typing in front of a computer, I write down very little of my thoughts. Most stuff that I come back to for memories are just old code and old pictures, and this should hopefully change that.</p>]]></content>
+        <author>
+            <name>Charles Ancheta</name>
+            <uri>https://github.com/cbebe</uri>
+        </author>
+        <category label="welcome" term="welcome"/>
+        <category label="first" term="first"/>
+    </entry>
+</feed>
