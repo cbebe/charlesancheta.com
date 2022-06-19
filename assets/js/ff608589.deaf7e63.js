@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcharlesancheta_com=self.webpackChunkcharlesancheta_com||[]).push([[918],{3931:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/hosting","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

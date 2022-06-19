@@ -4,10 +4,36 @@
         <title>Charles Ancheta Blog</title>
         <link>https://charlesancheta.com/blog</link>
         <description>Charles Ancheta Blog</description>
-        <lastBuildDate>Tue, 07 Jun 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Bye bye Netlify]]></title>
+            <link>https://charlesancheta.com/blog/bye-bye-netlify</link>
+            <guid>bye-bye-netlify</guid>
+            <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[It was short trial, but GitHub Pages just works better for me.]]></description>
+            <content:encoded><![CDATA[<p>It was short trial, but GitHub Pages just works better for me.</p><p>A couple of weeks ago, I moved my website from GitHub Pages to Netlify, hoping
+for a better development and production experience. I didn't really have a need
+to move just yet, but I wanted to see what the buzz about Netlify was about. So
+I spent a few hours setting it up and pointing my domain to the Netlify app.</p><p>It was working just fine at first, until I started making updates. The page
+would just load indefinitely and I would have to visit <code>cbebe.netlify.app</code>
+first before <code>charlesancheta.com</code> would behave properly. I've had a few
+embarrassing moments showing my website to people for a couple times and it
+refusing to load.</p><p>Another annoying was that every pull request and push to the master branch
+would trigger a build, even if none of the pages were modified. Netlify only
+provides a limited about of build time every month, so I found myself
+cancelling more builds in the Netlify dashboard more often than I manually
+deployed a build using the command line. This could be nice if other people
+were contributing to this repo, but since this is a personal website, I find
+that unlikely.</p><p>Realizing these, I moved back to GitHub Pages and manually deploying with the
+CLI. Maybe in the future where I would have to actually launch a
+production-level static website that I would revisit Netlify, but for now, I'll
+stick with my current workflow.</p>]]></content:encoded>
+            <category>netlify</category>
+            <category>hosting</category>
+        </item>
         <item>
             <title><![CDATA[Friendship Ended with TypeScript, now Go is My Best Friend]]></title>
             <link>https://charlesancheta.com/blog/2022/06/07/friendship-ended</link>
@@ -26,8 +52,17 @@
             <link>https://charlesancheta.com/blog/til/my-actual-height</link>
             <guid>til/my-actual-height</guid>
             <pubDate>Sun, 29 May 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Today I learned what my actual height was (at least at the time of writing). For a few years now I've always kind of just stuck with 170 cm because that's what was in my driver's license when I got it 5 years ago (I really need to pass the road test this year). I'm not even sure if that was right at the time.]]></description>
-            <content:encoded><![CDATA[<p>Today I learned what my actual height was (at least at the time of writing). For a few years now I've always kind of just stuck with 170 cm because that's what was in my driver's license when I got it 5 years ago (I really need to pass the road test this year). I'm not even sure if that was right at the time.</p><p>So, I took a couple of IKEA measuring tapes (courtesy of Jherzey), put them together on a post in our basement, got a square ruler (triangular? (<!-- -->*<!-- -->sigh<!-- -->*<!-- -->... <a href="https://philnews.ph/2021/06/10/eskwala-in-english-translate-eskwala-in-english/" target="_blank" rel="noopener noreferrer"><em>eskwala</em></a>)) and measured my height.</p><p><img loading="lazy" alt="A square measuring my height at 173 cm" src="/assets/images/173cm-878f5d7a25cfd68eb8a8389497e78c23.webp" width="1536" height="2048" class="img_DCeH"></p><p>So I guess I grew 3 cm in those 5 years? I still haven't caught up to my dad's peak height (176 cm), but he's a bit shorter now that he's older, so it's okay. My hair can add at least 2 inches 😂.</p>]]></content:encoded>
+            <description><![CDATA[Today I learned what my actual height was (at least at the time of writing).]]></description>
+            <content:encoded><![CDATA[<p>Today I learned what my actual height was (at least at the time of writing).
+For a few years now I've always kind of just stuck with 170 cm because that's
+what was in my driver's license when I got it 5 years ago (I really need to
+pass the road test this year). I'm not even sure if that was right at the time.</p><p>So, I took a couple of IKEA measuring tapes (courtesy of Jherzey), put them
+together on a post in our basement, got a square ruler (triangular?
+(<!-- -->*<!-- -->sigh<!-- -->*<!-- -->...
+<a href="https://philnews.ph/2021/06/10/eskwala-in-english-translate-eskwala-in-english/" target="_blank" rel="noopener noreferrer"><em>eskwala</em></a>))
+and measured my height.</p><p><img loading="lazy" alt="A square measuring my height at 173 cm" src="/assets/images/173cm-878f5d7a25cfd68eb8a8389497e78c23.webp" width="1536" height="2048" class="img_DCeH"></p><p>So I guess I grew 3 cm in those 5 years? I still haven't caught up to my dad's
+peak height (176 cm), but he's a bit shorter now that he's older, so it's okay.
+My hair can add at least 2 inches 😂.</p>]]></content:encoded>
             <category>til</category>
         </item>
         <item>
@@ -35,8 +70,11 @@
             <link>https://charlesancheta.com/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Sat, 28 May 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to my website! I am Charles, a Computer Engineering Student working as a Full Stack Web Developer.]]></description>
-            <content:encoded><![CDATA[<p>Welcome to my website! I am Charles, a Computer Engineering Student working as a Full Stack Web Developer.</p><p>For someone who spends a lot of time typing in front of a computer, I write down very little of my thoughts. Most stuff that I come back to for memories are just old code and old pictures, and this should hopefully change that.</p>]]></content:encoded>
+            <description><![CDATA[Welcome to my website! I am Charles, a Computer Engineering Student working as]]></description>
+            <content:encoded><![CDATA[<p>Welcome to my website! I am Charles, a Computer Engineering Student working as
+a Full Stack Web Developer.</p><p>For someone who spends a lot of time typing in front of a computer, I write
+down very little of my thoughts. Most stuff that I come back to for memories
+are just old code and old pictures, and this should hopefully change that.</p>]]></content:encoded>
             <category>welcome</category>
             <category>first</category>
         </item>
