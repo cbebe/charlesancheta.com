@@ -4,10 +4,35 @@
         <title>Charles Ancheta Blog</title>
         <link>https://charlesancheta.com/blog</link>
         <description>Charles Ancheta Blog</description>
-        <lastBuildDate>Sun, 19 Jun 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Dev Log: Boboman - Day 1]]></title>
+            <link>https://charlesancheta.com/blog/dev-log/boboman/day1</link>
+            <guid>dev-log/boboman/day1</guid>
+            <pubDate>Sun, 03 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Recently, I've been heavily configuring my text editor, Neovim, which means]]></description>
+            <content:encoded><![CDATA[<p>Recently, I've been heavily configuring my text editor, Neovim, which means
+that I've been writing a lot of Lua. I do find it enjoyable, even without
+having any tooling initially, so I wanted to give game development and
+<a href="https://love2d.org" target="_blank" rel="noopener noreferrer">Love2D</a> a try. I just finished <a href="https://www.sheepolution.com/learn/book/contents" target="_blank" rel="noopener noreferrer">Sheepolution's How to
+LÖVE</a> book on Love2D, and
+felt prepared to make my first game from scratch. As per Jherzey's request, I'm
+creating a Bomberman clone.</p><p>I tried looking for libraries that might be useful at first, such as the ones
+used in <a href="https://github.com/bakpakin/CommandoKibbles" target="_blank" rel="noopener noreferrer">Commando Kibbles</a>. I
+wanted to set up an Entity-Component system and all those other fancy game dev
+stuff I've been hearing about. However, I realized that I should only use the
+ones that I don't feel like re-writing. After all, the prerequisite to writing
+good code is writing bad code. In the end, <em>Boboman</em> seems like a fitting
+title, because I do feel dumb writing this game.</p><p>Anyway, here's what it looks like now. You can walk around, place bombs, and
+those bombs explode after a set amount of time, leaving a trail of explosion.
+The explosions don't go past the walls.</p><p><img loading="lazy" alt="Boboman Day 1 demo" src="/assets/images/boboman-81f5324a09b21c5973c71e5ad3c65132.gif" width="800" height="630" class="img_DCeH"></p>]]></content:encoded>
+            <category>dev-log</category>
+            <category>love</category>
+            <category>lua</category>
+        </item>
         <item>
             <title><![CDATA[Bye bye Netlify]]></title>
             <link>https://charlesancheta.com/blog/bye-bye-netlify</link>

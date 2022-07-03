@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcharlesancheta_com=self.webpackChunkcharlesancheta_com||[]).push([[580],{5845:function(e){e.exports=JSON.parse('{"label":"meme","permalink":"/blog/tags/meme","allTagsPath":"/blog/tags","count":1}')}}]);
