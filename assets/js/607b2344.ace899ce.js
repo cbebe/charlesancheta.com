@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcharlesancheta_com=self.webpackChunkcharlesancheta_com||[]).push([[4116],{5727:function(a){a.exports=JSON.parse('{"label":"gh-pages","permalink":"/blog/tags/gh-pages","allTagsPath":"/blog/tags","count":1}')}}]);

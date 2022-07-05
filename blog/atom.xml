@@ -2,11 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://charlesancheta.com/blog</id>
     <title>Charles Ancheta Blog</title>
-    <updated>2022-07-03T00:00:00.000Z</updated>
+    <updated>2022-07-04T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://charlesancheta.com/blog"/>
     <subtitle>Charles Ancheta Blog</subtitle>
     <icon>https://charlesancheta.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dev Log: Boboman - Day 2]]></title>
+        <id>dev-log/boboman/day2</id>
+        <link href="https://charlesancheta.com/blog/dev-log/boboman/day2"/>
+        <updated>2022-07-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MAJOR BUG ALERT!!]]></summary>
+        <content type="html"><![CDATA[<p>MAJOR BUG ALERT!!</p><p>Apparently my collision logic for the bombs weren't going to hold up. Every
+time a bomb explodes, there is a small time window where you can place a bomb
+and the bomb would not recognize the player, making it a "not new" bomb.
+Because of that, the player gets pushed off right away and could end up in the
+weirdest of places.</p><p>After hours of debugging I couldn't really solve it because of how the
+collision library orders the entity updates. I didn't feel like giving up for
+today, though, and making no progress. I simply created a deployment script to
+deploy the game to <a href="https://cbebe.github.io/boboman/" target="_blank" rel="noopener noreferrer">GitHub pages</a> and fixed
+the player update logic so it at least doesn't end up outside of the map. Still
+a pretty good day even if I didn't make as much progress as I wanted.</p>]]></content>
+        <author>
+            <name>Charles Ancheta</name>
+            <uri>https://github.com/cbebe</uri>
+        </author>
+        <category label="dev-log" term="dev-log"/>
+        <category label="love" term="love"/>
+        <category label="lua" term="lua"/>
+        <category label="gh-pages" term="gh-pages"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dev Log: Boboman - Day 1]]></title>
         <id>dev-log/boboman/day1</id>

@@ -4,10 +4,31 @@
         <title>Charles Ancheta Blog</title>
         <link>https://charlesancheta.com/blog</link>
         <description>Charles Ancheta Blog</description>
-        <lastBuildDate>Sun, 03 Jul 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Dev Log: Boboman - Day 2]]></title>
+            <link>https://charlesancheta.com/blog/dev-log/boboman/day2</link>
+            <guid>dev-log/boboman/day2</guid>
+            <pubDate>Mon, 04 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[MAJOR BUG ALERT!!]]></description>
+            <content:encoded><![CDATA[<p>MAJOR BUG ALERT!!</p><p>Apparently my collision logic for the bombs weren't going to hold up. Every
+time a bomb explodes, there is a small time window where you can place a bomb
+and the bomb would not recognize the player, making it a "not new" bomb.
+Because of that, the player gets pushed off right away and could end up in the
+weirdest of places.</p><p>After hours of debugging I couldn't really solve it because of how the
+collision library orders the entity updates. I didn't feel like giving up for
+today, though, and making no progress. I simply created a deployment script to
+deploy the game to <a href="https://cbebe.github.io/boboman/" target="_blank" rel="noopener noreferrer">GitHub pages</a> and fixed
+the player update logic so it at least doesn't end up outside of the map. Still
+a pretty good day even if I didn't make as much progress as I wanted.</p>]]></content:encoded>
+            <category>dev-log</category>
+            <category>love</category>
+            <category>lua</category>
+            <category>gh-pages</category>
+        </item>
         <item>
             <title><![CDATA[Dev Log: Boboman - Day 1]]></title>
             <link>https://charlesancheta.com/blog/dev-log/boboman/day1</link>

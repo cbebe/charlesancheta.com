@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcharlesancheta_com=self.webpackChunkcharlesancheta_com||[]).push([[5270],{2979:function(a){a.exports=JSON.parse('{"label":"dev-log","permalink":"/blog/tags/dev-log","allTagsPath":"/blog/tags","count":2}')}}]);
