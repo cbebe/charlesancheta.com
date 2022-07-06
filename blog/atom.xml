@@ -2,11 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://charlesancheta.com/blog</id>
     <title>Charles Ancheta Blog</title>
-    <updated>2022-07-04T00:00:00.000Z</updated>
+    <updated>2022-07-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://charlesancheta.com/blog"/>
     <subtitle>Charles Ancheta Blog</subtitle>
     <icon>https://charlesancheta.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dev Log: Boboman - Day 3]]></title>
+        <id>dev-log/boboman/day3</id>
+        <link href="https://charlesancheta.com/blog/dev-log/boboman/day3"/>
+        <updated>2022-07-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Feeling good today. I got to fix the collision bug that was happening]]></summary>
+        <content type="html"><![CDATA[<p>Feeling good today. I got to fix the collision bug that was happening
+yesterday. It actually had to do with the collision lifecycle, so to make the
+player detectable, I decoupled the check from the lifecycle of the bomb.
+Because of this, I could revert the player's bomb timer to normal. Moving away
+from a project and letting your brain sit on a problem for a while really does
+wonders.</p><p>I also created an enemy entity based off the player asset and make that and the
+box entities destructible by explosions. I thought I lost my commit progress on
+it after mashing a few keys on <code>lazygit</code>, but I got it back after a <code>git
+reflog</code> and <code>git cherry-pick</code> combo.</p><p>Overall, I'm making pretty good progress, and shaping the game more by adding
+stuff to the TODO.</p>]]></content>
+        <author>
+            <name>Charles Ancheta</name>
+            <uri>https://github.com/cbebe</uri>
+        </author>
+        <category label="dev-log" term="dev-log"/>
+        <category label="love" term="love"/>
+        <category label="lua" term="lua"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dev Log: Boboman - Day 2]]></title>
         <id>dev-log/boboman/day2</id>
