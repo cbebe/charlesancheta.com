@@ -4,10 +4,26 @@
         <title>Charles Ancheta Blog</title>
         <link>https://charlesancheta.com/blog</link>
         <description>Charles Ancheta Blog</description>
-        <lastBuildDate>Tue, 05 Jul 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Dev Log: Boboman - Day 4]]></title>
+            <link>https://charlesancheta.com/blog/dev-log/boboman/day4</link>
+            <guid>dev-log/boboman/day4</guid>
+            <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[I feel like the hardest part of writing this game would be the enemy logic.]]></description>
+            <content:encoded><![CDATA[<p>I feel like the hardest part of writing this game would be the enemy logic.
+That's why I'm putting it off for as long as possible! Today I implemented map
+generation, randomly placing boxes sufficiently far enough from players.</p><p><img loading="lazy" src="/assets/images/multiplayer-2f7e2c7ce9f6173738d3574d5e638d9e.webp" width="1366" height="768" class="img_DCeH"></p><p>I also added controls for other players, which reminded me of my local
+multiplayer experience with Boxhead. I miss having multiple people on play a
+single keyboard. These days it would be awkward to play that way.</p>]]></content:encoded>
+            <category>dev-log</category>
+            <category>love</category>
+            <category>lua</category>
+            <category>multiplayer</category>
+        </item>
         <item>
             <title><![CDATA[Dev Log: Boboman - Day 3]]></title>
             <link>https://charlesancheta.com/blog/dev-log/boboman/day3</link>

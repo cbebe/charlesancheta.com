@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://charlesancheta.com/blog</id>
     <title>Charles Ancheta Blog</title>
-    <updated>2022-07-05T00:00:00.000Z</updated>
+    <updated>2022-07-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://charlesancheta.com/blog"/>
     <subtitle>Charles Ancheta Blog</subtitle>
     <icon>https://charlesancheta.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dev Log: Boboman - Day 4]]></title>
+        <id>dev-log/boboman/day4</id>
+        <link href="https://charlesancheta.com/blog/dev-log/boboman/day4"/>
+        <updated>2022-07-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I feel like the hardest part of writing this game would be the enemy logic.]]></summary>
+        <content type="html"><![CDATA[<p>I feel like the hardest part of writing this game would be the enemy logic.
+That's why I'm putting it off for as long as possible! Today I implemented map
+generation, randomly placing boxes sufficiently far enough from players.</p><p><img loading="lazy" src="/assets/images/multiplayer-2f7e2c7ce9f6173738d3574d5e638d9e.webp" width="1366" height="768" class="img_DCeH"></p><p>I also added controls for other players, which reminded me of my local
+multiplayer experience with Boxhead. I miss having multiple people on play a
+single keyboard. These days it would be awkward to play that way.</p>]]></content>
+        <author>
+            <name>Charles Ancheta</name>
+            <uri>https://github.com/cbebe</uri>
+        </author>
+        <category label="dev-log" term="dev-log"/>
+        <category label="love" term="love"/>
+        <category label="lua" term="lua"/>
+        <category label="multiplayer" term="multiplayer"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dev Log: Boboman - Day 3]]></title>
         <id>dev-log/boboman/day3</id>
