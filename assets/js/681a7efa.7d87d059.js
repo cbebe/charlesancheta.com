@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcharlesancheta_com=self.webpackChunkcharlesancheta_com||[]).push([[2405],{5829:a=>{a.exports=JSON.parse('{"label":"netlify","permalink":"/blog/tags/netlify","allTagsPath":"/blog/tags","count":1}')}}]);

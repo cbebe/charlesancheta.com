@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcharlesancheta_com=self.webpackChunkcharlesancheta_com||[]).push([[8967],{5939:a=>{a.exports=JSON.parse('{"label":"lua","permalink":"/blog/tags/lua","allTagsPath":"/blog/tags","count":4}')}}]);

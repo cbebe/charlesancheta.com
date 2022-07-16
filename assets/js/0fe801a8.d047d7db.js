@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcharlesancheta_com=self.webpackChunkcharlesancheta_com||[]).push([[1472],{1651:a=>{a.exports=JSON.parse('{"label":"multiplayer","permalink":"/blog/tags/multiplayer","allTagsPath":"/blog/tags","count":1}')}}]);

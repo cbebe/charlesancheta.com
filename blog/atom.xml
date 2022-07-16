@@ -15,7 +15,7 @@
         <summary type="html"><![CDATA[I feel like the hardest part of writing this game would be the enemy logic.]]></summary>
         <content type="html"><![CDATA[<p>I feel like the hardest part of writing this game would be the enemy logic.
 That's why I'm putting it off for as long as possible! Today I implemented map
-generation, randomly placing boxes sufficiently far enough from players.</p><p><img loading="lazy" src="/assets/images/multiplayer-2f7e2c7ce9f6173738d3574d5e638d9e.webp" width="1366" height="768" class="img_DCeH"></p><p>I also added controls for other players, which reminded me of my local
+generation, randomly placing boxes sufficiently far enough from players.</p><p><img loading="lazy" src="/assets/images/multiplayer-2f7e2c7ce9f6173738d3574d5e638d9e.webp" width="1366" height="768" class="img_afgH"></p><p>I also added controls for other players, which reminded me of my local
 multiplayer experience with Boxhead. I miss having multiple people on play a
 single keyboard. These days it would be awkward to play that way.</p>]]></content>
         <author>
@@ -96,7 +96,7 @@ ones that I don't feel like re-writing. After all, the prerequisite to writing
 good code is writing bad code. In the end, <em>Boboman</em> seems like a fitting
 title, because I do feel dumb writing this game.</p><p>Anyway, here's what it looks like now. You can walk around, place bombs, and
 those bombs explode after a set amount of time, leaving a trail of explosion.
-The explosions don't go past the walls.</p><p><img loading="lazy" alt="Boboman Day 1 demo" src="/assets/images/boboman-81f5324a09b21c5973c71e5ad3c65132.gif" width="800" height="630" class="img_DCeH"></p>]]></content>
+The explosions don't go past the walls.</p><p><img loading="lazy" alt="Boboman Day 1 demo" src="/assets/images/boboman-81f5324a09b21c5973c71e5ad3c65132.gif" width="800" height="630" class="img_afgH"></p>]]></content>
         <author>
             <name>Charles Ancheta</name>
             <uri>https://github.com/cbebe</uri>
@@ -141,7 +141,7 @@ stick with my current workflow.</p>]]></content>
         <link href="https://charlesancheta.com/blog/2022/06/07/friendship-ended"/>
         <updated>2022-06-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Friendship ended]]></summary>
-        <content type="html"><![CDATA[<p><img loading="lazy" alt="Friendship ended" src="/assets/images/friendship-ended-81753b98ed56ffb6ff2b0c00e7f78cf0.webp" width="680" height="510" class="img_DCeH"></p><p>No blog post here, just a quick edit I made in GIMP.</p>]]></content>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="Friendship ended" src="/assets/images/friendship-ended-81753b98ed56ffb6ff2b0c00e7f78cf0.webp" width="680" height="510" class="img_afgH"></p><p>No blog post here, just a quick edit I made in GIMP.</p>]]></content>
         <author>
             <name>Charles Ancheta</name>
             <uri>https://github.com/cbebe</uri>
@@ -165,7 +165,7 @@ pass the road test this year). I'm not even sure if that was right at the time.<
 together on a post in our basement, got a square ruler (triangular?
 (<!-- -->*<!-- -->sigh<!-- -->*<!-- -->...
 <a href="https://philnews.ph/2021/06/10/eskwala-in-english-translate-eskwala-in-english/" target="_blank" rel="noopener noreferrer"><em>eskwala</em></a>))
-and measured my height.</p><p><img loading="lazy" alt="A square measuring my height at 173 cm" src="/assets/images/173cm-878f5d7a25cfd68eb8a8389497e78c23.webp" width="1536" height="2048" class="img_DCeH"></p><p>So I guess I grew 3 cm in those 5 years? I still haven't caught up to my dad's
+and measured my height.</p><p><img loading="lazy" alt="A square measuring my height at 173 cm" src="/assets/images/173cm-878f5d7a25cfd68eb8a8389497e78c23.webp" width="1536" height="2048" class="img_afgH"></p><p>So I guess I grew 3 cm in those 5 years? I still haven't caught up to my dad's
 peak height (176 cm), but he's a bit shorter now that he's older, so it's okay.
 My hair can add at least 2 inches 😂.</p>]]></content>
         <author>
